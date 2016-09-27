@@ -279,11 +279,30 @@ Bio: Farid is owner of the bus company that hire people to work for him.
        - Gestures
        - Technology
   
-  ## 2. Design Framework
-  ### a. Elements
- +
-  Deﬁne manifestations of information and functionality
- +
-  1. Information
-     2. input method
-     3. posture
+ ## 2. Design Framework
+### a. Elements
+Deﬁne manifestations of information and functionality
+1. Information
+2. input method
+3. posture
+4. gesture
+5. form factor
+
+2. functional and data elements
+   - information
+   - functions
+   - patterns
+   - mechanisms
+   - actions
+   - domain object models
+
+ ### b. Framework
+ Design overall structure of user experience
+
+1. Sketch
+
+[IMG]http://i63.tinypic.com/25a3qfa.jpg[/IMG]
+
+1. groupings and hierarchy
+
+2. Key path Scenario
