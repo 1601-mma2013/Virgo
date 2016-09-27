@@ -82,7 +82,7 @@ Bio: Farid is owner of the bus company that hire people to work for him.
      - monitoring device to awaken and alert the worker 
 
 6. Challenges.
-     - try to find out how to keep the bus driver awake and safe from driving.Because there a lot past history of accident because of the driver bus that to sleepy and crash the bus making the bus broken and the passenger. ​
+     - try to find out how to keep the bus driver awake and safe from driving.Because there a lot past history of accident because of the driver bus that to sleepy and crash the bus making the bus broken and the passenger life at danger.
 
 
 
