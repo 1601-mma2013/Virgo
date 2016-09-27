@@ -301,7 +301,9 @@ Deﬁne manifestations of information and functionality
 
 1. Sketch
 
-[IMG]http://i63.tinypic.com/25a3qfa.jpg[/IMG]
+![alt tag](http://i65.tinypic.com/2l9h5vp.jpg)
+
+![alt tag](http://i63.tinypic.com/25a3qfa.jpg)
 
 1. groupings and hierarchy
 
