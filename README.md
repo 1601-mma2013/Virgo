@@ -13,74 +13,67 @@
 ## 1. Research
 
 ### a. Scope
-
+-----
 1. Objectives
-   To create a Bluetooth headset to track driver drowsiness at the wheel.
+    - To create a Bluetooth headset to track driver drowsiness at the wheel.
 
 2. How
-
-   - It monitors the wearer's eyes and head motion for signs of drowsiness and stimulates them when they are dozing off.
-   - A real-time dashboard allows management to track this information in real-time.
+    -  It monitors the wearer's eyes and head motion for signs of drowsiness and stimulates them when they are dozing off.
+    - A real-time dashboard allows management to track this information in real-time.
    
    ### b. Audit
+-----
 1. Field (market) research
 
-   In the past few years, many type of technology that are been use to alert people by not being sleepy while driving. Before this people usually drink a coffee or take anything that can prevent being sleepy while driving or working. But in this new era there are many technology that have been created to make people alert from being sleepy. There are some of the technology that have been created and most of the technology is slighly more simple and direct use by the user. Some of the user might have difficult time to use the technology without any feature so for any futher some research that have been collected based on people feels example in a boring lecture, cramming all night at the library, or working long hours at internships,Coffees and energy drinks were all somewhat effective in keeping people from dozing off, but the most reliable way to stay alert was having a buddy next to other that could watch others were losing people focus and nudge people when others started to doze off.
+    - In the past few years, many type of technology that are been use to alert people by not being sleepy while driving. Before this people usually drink a coffee or take anything that can prevent being sleepy while driving or working. But in this new era there are many technology that have been created to make people alert from being sleepy. There are some of the technology that have been created and most of the technology is slighly more simple and direct use by the user. Some of the user might have difficult time to use the technology without any feature so for any futher some research that have been collected based on people feels example in a boring lecture, cramming all night at the library, or working long hours at internships,Coffees and energy drinks were all somewhat effective in keeping people from dozing off, but the most reliable way to stay alert was having a buddy next to other that could watch others were losing people focus and nudge people when others started to doze off.
    
    2. Competitors / alternatives / replacement
 
    - **Driver Fatigue Monitor MR688** - http://www.care-drive.com/product/driver-fatigue-monitor-mr688/
 
-     Pros
+     ###Pros
 
-     - Provides early warning for driver fatigue and distraction driving status.
-     - Detects sleep in opening eyes​.
+    - Provides early warning for driver fatigue and distraction driving status.
+    - Detects sleep in opening eyes​.
 
-     Cons
+     ###Cons
 
-     - Sounds of the alarm can make people shock.
-
-       ​
+    - Sounds of the alarm can make people shock.
 
    - **Hush** - https://hush.technology/
 
-     Pros
+     ###Pros
 
-     - Notification Filter,
-     - Personal Alarm.
-     - Soothing Sounds.
-     - Hush Tracker,
+    - Notification Filter,
+    - Personal Alarm.
+    - Soothing Sounds.
+    - Hush Tracker,
 
-     Cons
+     ###Cons
 
-     - Lack of software problem based on people review.
-
-       ​
+    - Lack of software problem based on people review.
 
    - **Optalert** - http://www.optalert.com/
 
-     Pros
+     ###Pros
 
-     - Identify the first signs, reducing the risk of accident due to drowsiness.
-     - Helps the driver proactively remove that self-debate early and eliminate the likelihood of a micro sleep.
+    - Identify the first signs, reducing the risk of accident due to drowsiness.
+    - Helps the driver proactively remove that self-debate early and eliminate the likelihood of a micro sleep.
 
-     Cons
+     ###Cons
 
-     - lack of apps system.
+    - lack of apps system.
      
      - **Sleepwatcher XR** - http://www.exeros-technologies.com/products/driver-fatigue-management
 
-     Pros
+     ###Pros
 
      - Assesses the drivers retina and eyelids for signs of fatigue.
      - non-contact, facial recognition infrared cameras that monitors human eyelid and retina status.
      
-     Cons
+     ###Cons
 
      - shape is to big.
-     
-
-     ​
 
 3. Relevant technologies
 
@@ -138,7 +131,7 @@
 
    ​
 
-   ![survey.JPG]https://github.com/1601-mma2013/Virgo/blob/master/iner.PNG
+   ![survey.JPG]https://github.com/1601-mma2013/Virgo/blob/master/survey.JPG
 
    ​
 
