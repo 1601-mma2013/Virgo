@@ -7,15 +7,15 @@ PASTE BOTTOM HERE
 --------
 
 4.Motivations
-
-   Road driver can drive safety and also the passenger. Can increase awareness and reduce road accident.
+    - Road driver can drive safety and also the passenger. Can increase awareness and reduce road accident.
 
 
 5. Environments.
     - Road
     - Around Petaling state.
 
-6. Tools	- no exact device before this to awake driver
+6. Tools
+    - no exact device before this to awake driver
     - vaigo device is the right tool to use to awake sleepy driver.
 
 7. Challenges
@@ -33,7 +33,8 @@ Bus Driver
 | AGE        | 36           |
 | STATUS     | Married       |
 
-Bio: Mamat is a a public bus driver who mostly spent most of the time driving a bus from 6am to 3pm (about 9 hours of driving) but mamat is taking Over time shift for another 9 hours of driving that’s mean a total of 18 hours of driving a day. Mamat is a hardworking guy that work almost a full day to find money to support his family. But mamat is a just a normal human that have a limit of energy. Most of the time mamat feel energetic until it reach its limit around after 10 hours of working. So mamat mostly take a coffee(for caffeine) and smoke cigarette and also eat a lot of junk food for him to get focus on the road and stay active. With this kind of lifestyle it will someday will risk people life on the bus because of the tiredness and lack of concentration.
+Bio: 
+    - Mamat is a a public bus driver who mostly spent most of the time driving a bus from 6am to 3pm (about 9 hours of driving) but mamat is taking Over time shift for another 9 hours of driving that’s mean a total of 18 hours of driving a day. Mamat is a hardworking guy that work almost a full day to find money to support his family. But mamat is a just a normal human that have a limit of energy. Most of the time mamat feel energetic until it reach its limit around after 10 hours of working. So mamat mostly take a coffee(for caffeine) and smoke cigarette and also eat a lot of junk food for him to get focus on the road and stay active. With this kind of lifestyle it will someday will risk people life on the bus because of the tiredness and lack of concentration.
 
 1. Goals.
      - To get him to stay awake and stay focus on the road.
@@ -69,7 +70,8 @@ Bio: Mamat is a a public bus driver who mostly spent most of the time driving a 
 | STATUS     | MARRIED     |
 
 
-Bio: Farid is owner of the bus company that hire people to work for him.
+Bio: 
+    - Farid is owner of the bus company that hire people to work for him.
 
 1. Goals.
      - To run a bus company business and take profit on it.
@@ -90,17 +92,13 @@ Bio: Farid is owner of the bus company that hire people to work for him.
 
 6. Challenges.
      - try to find out how to keep the bus driver awake and safe from driving.Because there a lot past history of accident because of the driver bus that to sleepy and crash the bus making the bus broken and the passenger life at danger.
-
-
-# Virgo
-
-![99512511323379.560f5c85c368f.png](https://github.com/1601-mma2013/Virgo/blob/master/99512511323379.560f5c85c368f.png)
-
-test 1
+-----
 
 # II. Synthesis
+-----
 ## 1. Requirements Definition
 ### a. Context Scenarios
+
 1. Lisha did not have enough sleep last night. When she drives to class, Vaigo protects her from dozing off.
 2. She increases the vibration just to make sure she will never sleep while driving.
 3. During class, Vaigo alerts her when her eyelids are starting to get closer to each other due to boring lecture.
@@ -120,7 +118,7 @@ test 1
      
       Data requirements :
      
-      Personas' data needs are the objects and information that must be represented in the
+    - Personas' data needs are the objects and information that must be represented in the
       system. Using the semantics just described, it is often useful to think of data requirements
       as the objects and adjectives related to those objects. Common examples include
       accounts, people, addresses, documents, messages, songs, and images, as well as attributes
@@ -128,25 +126,27 @@ test 1
      
      Functional requirements :
      
-       Functional needs are the operations or actions that need to be performed on the system's
+    - Functional needs are the operations or actions that need to be performed on the system's
       objects and that typically are translated into interface controls. These can be thought of
       as the product's actions. Functional needs also define places or containers where objects
       or information in the interface must be displayed. (These clearly are not actions in and of
       themselves but usually are suggested by actions.)
 
-  - design imperatives
-  - user mental model
-  - product vision
-  - business requirements / Business requirements can include development timelines,
+    - design imperatives
+    - user mental model
+    - product vision
+    - business requirements / Business requirements can include development timelines,
     budgetary and resource constraints, regulations and legal considerations, business models
     and pricing structures.
   
-  - Gestures
-  - Technology
+    - Gestures
+    - Technology
 
 ## 2. Design Framework
 ### a. Elements
+
 Deﬁne manifestations of information and functionality
+
 1. Information
    2. input method
    3. posture
