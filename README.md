@@ -138,7 +138,7 @@
 
    ​
 
-   ![survey.JPG]https://github.com/1601-mma2013/Virgo/blob/master/survey.JPG
+   ![survey.JPG]https://github.com/1601-mma2013/Virgo/blob/master/iner.PNG
 
    ​
 
