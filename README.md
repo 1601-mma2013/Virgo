@@ -305,6 +305,15 @@ Deﬁne manifestations of information and functionality
 
 ![alt tag](http://i63.tinypic.com/25a3qfa.jpg)
 
+![alt tag](http://i65.tinypic.com/2w7nyx4.jp)
+
+![alt tag](http://i68.tinypic.com/a2sygk.jpg)
+
+![alt tag](http://i66.tinypic.com/2cf41u8.jpg)
+
+![alt tag](http://i65.tinypic.com/2j1jwqg.jpg)
+
 1. groupings and hierarchy
 
 2. Key path Scenario
+   - MAMAT is on the way to the work and he bring VIAGO with him. It is 6.30 in the morning Mamat is keep the headset in his front pocket of his shirt. Through the day he feel energetic and happy because the new device that he carry. He keep driving until he reach a point when he feel like almost geeting tired when the time is almost at night and it is his over time shift. He pull out the VIAGO and wear it. He feel different than before because the feeling of safe driving. At 9 pm Mamat feel almost sleepy then he like closing his eye half the all sudden the device ringing and beep loud in his ear canal, and he feel shock and suprise then he notice that theres device that he wearing that making the noise and talking to wakeup. Because of the shoke mamat brain shift away the sleepy fefeling and continued driving until it finish his work shift.
